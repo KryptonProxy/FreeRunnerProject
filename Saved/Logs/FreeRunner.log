@@ -1332,3 +1332,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.09.01-21.32.38:114][609]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2020.09.01-21.32.39:855][708]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
 [2020.09.01-21.32.39:855][708]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.01-21.35.11:568][418]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2020.09.01-21.35.12:273][418]LogSavePackage: Moving '../../../../../Work/Unreal Projects/GitHub/FreeRunnerProject/Saved/ThirdPersonExampleMap4C620B8A40100711535A309CC54025CB.tmp' to '../../../../../Work/Unreal Projects/GitHub/FreeRunnerProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.09.01-21.35.12:740][418]LogSavePackage: Moving '../../../../../Work/Unreal Projects/GitHub/FreeRunnerProject/Saved/ThirdPersonExampleMap_BuiltDataEB2031B54CA3937714E226B12D4A497B.tmp' to '../../../../../Work/Unreal Projects/GitHub/FreeRunnerProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.09.01-21.35.12:762][418]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.01-21.35.12:762][418]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.09.01-21.35.12:762][418]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
